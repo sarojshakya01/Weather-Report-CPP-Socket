@@ -1,0 +1,10 @@
+jfparis@Odeon:~/3360/Spring20$ ./server2.py
+Enter server port number: 5432
+Weather report for Houston
+Tomorrow's maximum temperature is 77 F
+Tomorrow's sky condition is AM Thunderstorms
+Weather report for Truth or Consequences
+Tomorrow's maximum temperature is 53 F
+Tomorrow's sky condition is Sunny/Windy
+Weather report for Toronto
+No data

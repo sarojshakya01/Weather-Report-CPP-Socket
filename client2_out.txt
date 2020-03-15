@@ -1,0 +1,17 @@
+jfparis@Odeon:~/3360/Spring20$ ./client2.py
+Enter the server host name: localhost
+Enter the server port number: 5432
+Enter a city name: Houston
+Tomorrow's maximum temperature is 77 F
+Tomorrow's sky condition is AM Thunderstorms
+jfparis@Odeon:~/3360/Spring20$ ./client2.py
+Enter the server host name: localhost
+Enter the server port number: 5432
+Enter a city name: Truth or Consequences
+Tomorrow's maximum temperature is 53 F
+Tomorrow's sky condition is Sunny/Windy
+jfparis@Odeon:~/3360/Spring20$ ./client2.py
+Enter the server host name: localhost
+Enter the server port number: 5432
+Enter a city name: Toronto
+No data
