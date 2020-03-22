@@ -1,14 +1,13 @@
-#include <iostream> 
-#include <sys/socket.h> 
+#include <iostream>
+#include <sys/socket.h>
 #include <netdb.h>
 #include <fstream>
-#include <sys/wait.h>
 #include <arpa/inet.h>
 #include <unistd.h>
 #include <ctime>
 #include <cstring>
 
-using namespace std; 
+using namespace std;
 
 #define size 256
 

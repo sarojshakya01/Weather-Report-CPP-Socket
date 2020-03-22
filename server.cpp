@@ -1,7 +1,6 @@
 #include <iostream>
 #include <unistd.h>
 #include <fstream>
-#include <sys/wait.h>
 #include <cstring>
 #include <sys/socket.h>
 #include <netinet/in.h>
